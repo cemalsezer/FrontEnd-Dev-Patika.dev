@@ -1,0 +1,93 @@
+h1 {
+    color: rgb(61, 17, 17);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.urunbutton
+{
+    color: rgb(242, 133, 31);
+}
+
+h3 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 21px;
+    color: rgb(43, 63, 57);
+}
+
+h4 {
+    color:rgb(220, 82, 18);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 20px;
+}
+
+h5 {
+    color:mediumslateblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.menu {
+    color:maroon;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.menu ul{
+    list-style: none;
+    display: block;
+}
+
+.menu ul li {
+    display: inline;
+    position: relative;
+    margin: 10px;
+    
+}
+
+ul{
+    list-style: none;
+    display: block;
+}
+ul li {
+    display: block;
+    position: relative;
+    margin-right: 10px;
+    margin: 5px;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.col12{
+    width: 100%;
+    margin: auto;
+}
+
+.col4{
+    width: 33.33334%;
+    float: left;
+}
+
+.col4 img{
+    width: 100%;
+    height: 200px;
+}
+
+body {
+    background-color: #E9ECEF;
+}
+
+ .spor-dukkanim {
+    color: red;
+}
+
+.btn {
+    align-items: center;
+}
