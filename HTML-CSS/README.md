@@ -1,1 +1,1 @@
-# Patika.dev, Front-End Patikası, HTML VE CSS Ödev ve Çalışmaları
+# Patika.dev, Front-End Patikası, HTML-CSS Ödev ve Çalışmaları
